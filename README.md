@@ -1,1 +1,1 @@
-# sandbox-jsonplaceholder
+# angular-jsonplaceholder
